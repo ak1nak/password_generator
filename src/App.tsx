@@ -4,7 +4,7 @@ import PasswordGenerator from './PasswordGenerator'
 function App() {
   return (
     <>
-    <PasswordGenerator />
+      <PasswordGenerator />
     </>
   )
 }
